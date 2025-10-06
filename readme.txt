@@ -2,7 +2,8 @@ python version 3.11
 
 tải git
 https://git-scm.com/downloads
-
+tải package cho project
+pip install -r "requirements.txt"
 lệnh tạo git repo local va push lên remote( terminal)
 git init
 git commit -m "Điền commit message vào đây"
